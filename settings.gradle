@@ -1,0 +1,2 @@
+include ':app', 'sendfile'
+rootProject.name = "AD-Detecting"
